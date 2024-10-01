@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://amcmfab.github.io/sitemap.html.gz
+Sitemap: https://amcmfab.github.io/app/sitemap.html.gz
+Sitemap: https://amcmfab.github.io/assets/sitemap.html.gz
+Sitemap: https://amcmfab.github.io/css/sitemap.html.gz
+Sitemap: https://amcmfab.github.io/data/sitemap.html.gz
+Sitemap: https://amcmfab.github.io/includes/sitemap.html.gz
+Sitemap: https://amcmfab.github.io/item/sitemap.html.gz
+Sitemap: https://amcmfab.github.io/src/sitemap.html.gz
